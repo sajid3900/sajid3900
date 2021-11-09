@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajid3900
+- 👋 Hi, I’m Muhammad Sajid Ali
 - 👀 I’m interested in mobility simulations, machine learning and reinforcement learning.
 - 🌱 I’m currently doin my PhD at Technical university munich on Autonomous Mobility on Deamnd.
 - 💞️ I’m looking to collaborate on research related to mobility on demand, reinforcement learning and other interested topics.
