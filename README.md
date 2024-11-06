@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Muhammad Sajid Ali
-- 👀 I’m interested in mobility simulations, machine learning and reinforcement learning.
-- 🌱 I’m currently doin my PhD at Technical university munich on Autonomous Mobility on Deamnd.
-- 💞️ I’m looking to collaborate on research related to mobility on demand, reinforcement learning and other interested topics.
+- 👋 Hi, I am Muhammad Sajid Ali. Currently working as the Head of Data Science and Analytics at BitWatt Systems GmbH.
+- 👀 I’m interested in numerical optimizations, time-series forecasting and financial modelling in energy markets.
+- 🌱 I have earlier worked as a Reserach Assistant at Technical University Munich.
+- 💞️ I’m looking to collaborate on research or business/software related to energy markets and optimization.
 - 📫 You can write to me at sajid3900@gmail.com
 
 <!---
